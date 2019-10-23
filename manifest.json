@@ -1,0 +1,8 @@
+{
+  "domain": "tunnel",
+  "name": "tunnel switch",
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_light/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["jupyter"]
+}
